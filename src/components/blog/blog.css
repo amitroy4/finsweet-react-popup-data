@@ -1,0 +1,58 @@
+.blog {
+    padding: 128px 0;
+}
+
+.blog .box {
+    padding-top: 64px;
+    justify-content: space-between;
+}
+
+.blog .post {
+    width: 32%;
+}
+
+.blog .post img {
+    width: 100%;
+}
+
+.blog .post .date {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    padding-top: 40px;
+    color: rgba(40, 41, 56, 0.6);
+}
+
+.blog .post h6 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    padding-top: 16px;
+    color: #282938;
+    width: 405px;
+}
+
+.blog .post p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    padding-top: 16px;
+    padding-bottom: 32px;
+    color: rgba(40, 41, 56, 0.6);
+    width: 405px;
+}
+
+.blog .box .post .readmorebtn {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+}
+
+.blog .box .post .readmorebtn i {
+    margin-left: 16px;
+}

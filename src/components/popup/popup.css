@@ -1,0 +1,20 @@
+.popup {
+    background: #877ca3;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(odd) {
+    background-color: #f2f2f26e;
+}

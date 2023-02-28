@@ -1,0 +1,92 @@
+.up {
+    padding-top: 100px;
+    background: #1C1E53;
+}
+
+.up .left {
+    width: 42.7%;
+}
+
+.up .left .box {
+    flex-direction: column;
+    gap: 86px;
+}
+
+.up .left .one p {
+    width: 399px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin-top: 22px;
+}
+
+.up .left .two {
+    background: #FCD980;
+    padding-top: 17px;
+    padding-left: 37px;
+    display: flex;
+    gap: 29px;
+}
+
+.up .left .two .contact h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #000000;
+}
+
+.up .left .two .contact p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #000000;
+}
+
+.up .right {
+    width: 57.3%;
+    padding-left: 141px;
+}
+
+.up .right h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    color: #FFFFFF;
+}
+
+.up .right p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #F4F6FC;
+    width: 399px;
+    margin-top: 14px;
+}
+
+.up .right i {
+    margin-top: 28px;
+    margin-right: 26.67px;
+    color: #FFFFFF;
+}
+
+.down .box {
+    justify-content: space-between;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+}
+
+.down .right ul {
+    display: flex;
+    gap: 32px;
+}
